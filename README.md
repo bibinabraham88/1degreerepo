@@ -2,7 +2,7 @@
 
 To get started type:
 
-`npm init`
+`npm i`
 
 into your console.
 
